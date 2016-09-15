@@ -107,6 +107,11 @@ a:focus, a:hover {
   margin: 0 0 20px 0;
 }
 
+.access-desc {
+  margin:0 auto 20px;
+  width: 90%;
+}
+
 .footer {
   background-color: #00984a;
   padding: 20px 0; 
