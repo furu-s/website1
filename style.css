@@ -1,0 +1,122 @@
+body {
+  background-image: url("./images/top/main_background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;          
+  background-position: 50% 50%;
+  background-attachment:fixed; 
+}
+
+iframe {
+  width: 90%;
+
+}
+
+/*上書き*/
+
+h1 {
+  margin: 0;
+}
+
+a:focus, a:hover {
+  color: #333;
+}
+
+.section {
+  margin: 0 0 20px 0;
+}
+
+.container {
+  background-color: #fff;
+  padding:20px;
+}
+
+.navbar {
+  background-color: #fff;
+  margin-bottom: 0px;
+}
+
+@media (min-width: 768px) {
+  .navbar {
+    border-radius: 0px;
+  }
+  .nav>li>a {
+    display: inline-block;
+    font-weight: bold;
+  }
+
+  .nav>li>a:hover {
+    color:#00984a;
+  }
+
+  .nav>li {
+    display: inline-block;
+  }
+  .navbar {
+    height: 32px;
+    line-height: 32px;
+    margin-bottom: 0;
+  }
+}
+.nav-link {
+  color:#00984a;
+}
+
+.navbar-toggle .icon-bar {
+  background-color: #333;
+}
+
+.navbar-toggle {
+  background-color: #fff;
+}
+
+.header-logo {
+  width: 500px;
+}
+
+@media (max-width: 767px) {
+  .header-logo {
+    width: 75%;
+  }
+}
+
+.main-slideshow-wrap {
+  padding: 12px 0;
+}
+
+.main-slidershow {
+  margin: 24px auto;
+}
+
+.section .headline {
+  margin: 0 0 16px 0;
+  color: #00984a;
+  font-weight: bold;
+}
+
+
+.section-theme .container {
+  background-color: transparent;
+}
+
+.sponsor-item {
+  margin: 0 0 20px 0;
+}
+
+.footer {
+  background-color: #00984a;
+  padding: 20px 0; 
+  color: #fff
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
