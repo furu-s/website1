@@ -35,7 +35,7 @@
   <div id="gnavi" class="collapse navbar-collapse">
   <ul class="nav text-center">
     <li class="nav-item active">
-      <a class="nav-link" href="#">ホーム</a>
+      <a class="nav-link" href="/">ホーム</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="/about">主催者について</a>
