@@ -54,6 +54,6 @@
 
 <div class="container-fluid text-center">
   <div class="row">
-    <h1><a href="世界食料デーフェスティバル"><img src="images/top/logo.png" alt="" class="header-logo"></a></h1>
+    <h1><a href="/"><img src="images/top/logo.png" alt="" class="header-logo" class="世界食料デーフェスティバル2016"></a></h1>
   </div>
 </div>
