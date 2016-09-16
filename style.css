@@ -22,7 +22,7 @@ a:focus, a:hover {
 }
 
 .section {
-  margin: 0 0 20px 0;
+  margin: 20px 0;
 }
 
 .container {
@@ -39,6 +39,10 @@ a:focus, a:hover {
 
 .navbar-header {
   background-color: #fff;
+}
+
+#about.container, #access.container {
+  margin: 20px auto;
 }
 
 
@@ -92,7 +96,7 @@ a:focus, a:hover {
   margin: 24px auto;
 }
 
-.section .headline {
+.headline {
   margin: 0 0 16px 0;
   color: #00984a;
   font-weight: bold;
